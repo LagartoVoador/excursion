@@ -1,4 +1,20 @@
 *{
     background-color: black;
     color: white;
+    font-family: Helvetica;
+}
+
+.title{
+    font-size: 60px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+p .link{
+    color: aquamarine;
+    
 }
